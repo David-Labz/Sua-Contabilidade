@@ -36,7 +36,7 @@ Apresenta de forma clara e profissional os serviços oferecidos, avaliações de
 
 ## 💻 Instalação Local
 
-```bash
+bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
